@@ -1,0 +1,57 @@
+{
+   "AK":{
+      "capital":"Bien Hoa",
+      "lat":"10.95",
+      "long":"106.816667"
+   },
+   "AZ":{
+      "capital":"Cam My",
+      "lat":"10.836131",
+      "long":"107.234897"
+   },
+   "CA":{
+      "capital":"Dinh Quan",
+      "lat":"11.2038",
+      "long":"107.3587"
+   },
+   "CO":{
+      "capital":"Trang Bom",
+      "lat":"10.919722",
+      "long":" 107.031944"
+   },
+   "CT":{
+      "capital":"Long Khanh",
+      "lat":"10.917",
+      "long":"107.167"
+   },
+   "DE":{
+      "capital":"Long Thanh",
+      "lat":"10.833",
+      "long":"107"
+   },
+   "FL":{
+      "capital":"Nhon Trach",
+      "lat":"10.667",
+      "long":"106.917"
+   },
+   "GA":{
+      "capital":"Tan Phu",
+      "lat":"11.272",
+      "long":"107.4367"
+   },
+   "HI":{
+      "capital":"Thong Nhat",
+      "lat":"10.917",
+      "long":"107.083"
+   },
+   "ID":{
+      "capital":"Vinh Cuu",
+      "lat":"11.333",
+      "long":"107.083"
+   },
+   "IL":{
+      "capital":"Xuan Loc",
+      "lat":"10.833",
+      "long":"107.417"
+   }
+}
